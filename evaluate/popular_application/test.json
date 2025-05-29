@@ -1,0 +1,57 @@
+{
+    "Maps": [
+        "Search for Cinemark Century Mountain View 16, get directions for driving and start navigation.",
+        "Search for nearby restaurants and get directions to the first one in the list.",
+        "Go to saved locations and get directions to home.",
+        "Search for NASA Ames Research Center, get directions for walking and start navigation.",
+        "Search for nearby hotel rooms which can host 4 adults and check availability of one hotel."
+    ],
+    "X": [
+        "Send a tweet post with the content \"Hi!\"",
+        "Send a tweet post with a random photo and text \"This is for Elon\".",
+        "Search for the user Lebron James and follow him.",
+        "Go to my profile page and edit my profile name to \"Henry\".",
+        "Enter a community page and ask to join."
+    ],
+    "Youtube": [
+        "Search for the music video of the song \"Wonderful Tonight\" and leave a praising comment there.",
+        "Search for the channel \"tesla\" and subscribe to the channel.",
+        "Find a NBA highlight video and set the playback speed to 2x.",
+        "Go to the app setting and change the app language from English to Albanian."
+    ],
+    "Spotify": [
+        "Search for the artist Eric Clapton, enter his artist page, and play his playlist.",
+        "Search the song \"Smooth Criminal\" and add it to my Liked Songs playlist.",
+        "Change my profile name to AndroidGen.",
+        "Go to the app settings and switch to save data mode.",
+        "Add a new playlist to my library and name it \"AI generation\""
+    ],
+    "Chrome": [
+        "Search for Apple and tell me the newest IPhone version.",
+        "Help me search for the weather in London today.",
+        "Tell me what is my last search result in the history?",
+        "Help me change the theme into dark mode.",
+        "Change the search engine into bing."
+    ],
+    "Gmail": [
+        "Send an email to yuhan05021@gmail.com to ask her about her new job.",
+        "Send an email that contains a random image file to yuhan05021@gmail.com.",
+        "Send an email to yuhan05021@gmail.com to ask her about her new job. Schedule the send to tomorrow morning.",
+        "Check my email drafts.",
+        "Send an email to yuhan05021@gmail.com and cc johndoe@email.com. The email is about asking jane about her recent job interview."
+    ],
+    "Drive": [
+        "Upload a random image to Google Drive.",
+        "Add a random image to starred.",
+        "Check my drive storage left.",
+        "Create a folder named \"Europe Trip\".",
+        "Put a random image into trash."
+    ],
+    "Translate": [
+        "Translate \"Hello, my name is Mathew\" into Spanish.",
+        "Translate \"See you tommorow\" into Chinese.",
+        "Paste the copied content and translate into Spanish.",
+        "Translate \"apple\" into Spanish and add to phrase book.",
+        "Review my saved phrase and show me the translation result."
+    ]
+}
